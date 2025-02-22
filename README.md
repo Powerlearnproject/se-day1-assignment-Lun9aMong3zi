@@ -6,10 +6,11 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is the process of developing, testing and using computer applications to solve problems with specific set of engineering principles and practices.Businesses can improve operations, expedite procedures, and obtain a competitive advantage by creating customized software solutions.Software engineering also assists companies in effectively managing data, analyzing consumer trends, and coming to well-informed judgments that promote expansion and profitability.
+
 Identify and describe at least three key milestones in the evolution of software engineering.
-1968: The term "software engineering" coined at the NATO Software Engineering Conference.
-1970s: Development of Object-Oriented Programming (OOP) languages.
-1990s: Introduction of Agile methodologies.
+Milestones include the development of programming languages (e.g., Fortran, C), 
+the establishment of software engineering as a discipline in the 1960s, 
+the advent of structured programming in the 1970s, and the rise of agile methodologies in the 2000s.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Planning - this stage involves defining the software's purpose and scope.
